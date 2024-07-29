@@ -19,8 +19,8 @@
     },
     "languages": [
         {
-            "lang": "fr",
-            "name": "French",
+            "lang": "en",
+            "name": "English",
             "path": "languages/en.json"
         }
     ],
